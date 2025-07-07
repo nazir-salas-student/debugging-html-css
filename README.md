@@ -1,3 +1,21 @@
+# Update to Files with bug fixes
+  Line 2: Fixed <html> to include lang = "eng"
+  Line 5: Extra unused meta tag.
+  Line 6: Removed slash at the end of meta tag
+  Line 10: Not linked properly to file.
+  Line 21: No alt text on <img> tag. Added alt text.
+  Line 62: Closed <h3> tag. This also clears errors for <p> and <article>
+
+  style.css
+  Line 33. Typo on color. 
+  Line 44: space between value and unit of measure
+  Line 68: typo and space on unit of measure
+  Line 88: typo on color
+  Line 98: "all" is not used for this type of parameter.
+
+
+----------------------------------
+
 # Debugging Assignment Files
 
 Welcome to the Debugging Assignment repository! This repository contains the resources for the debugging assignment in the Web Design Tools course. Students will debug the provided HTML and CSS files to meet W3C standards and accessibility guidelines.
