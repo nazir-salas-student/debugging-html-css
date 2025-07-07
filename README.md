@@ -1,12 +1,12 @@
 # Update to Files with bug fixes
   Line 2: Fixed <html> to include lang = "eng"
   Line 5: Extra unused meta tag.
-  Line 6: Removed slash at the end of meta tag
-  Line 10: Not linked properly to file.
-  Line 21: No alt text on image tag. Added alt text.
-  Line 46: Changed header size for consistency. 
-  Line 51: changed header size for consistency.
-  Line 62: Closed tag. This also clears errors for additional errors found.
+  Line 7: Removed slash at the end of meta tag
+  Line 11: Not linked properly to file.
+  Line 22: No alt text on image tag. Added alt text.
+  Line 47: Changed header size for consistency. 
+  Line 52: changed header size for consistency.
+  Line 63: Closed tag. This also clears errors for additional errors found.
 
   style.css
   Line 33. Typo on color. 
