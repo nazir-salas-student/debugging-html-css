@@ -3,8 +3,10 @@
   Line 5: Extra unused meta tag.
   Line 6: Removed slash at the end of meta tag
   Line 10: Not linked properly to file.
-  Line 21: No alt text on <img> tag. Added alt text.
-  Line 62: Closed <h3> tag. This also clears errors for <p> and <article>
+  Line 21: No alt text on image tag. Added alt text.
+  Line 46: Changed header size for consistency. 
+  Line 51: changed header size for consistency.
+  Line 62: Closed tag. This also clears errors for additional errors found.
 
   style.css
   Line 33. Typo on color. 
@@ -12,6 +14,9 @@
   Line 68: typo and space on unit of measure
   Line 88: typo on color
   Line 98: "all" is not used for this type of parameter.
+
+  layout.css
+  Line 19, seperated dd, dt from aside.
 
 
 ----------------------------------

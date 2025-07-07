@@ -16,7 +16,7 @@ main {
   background-color: whitesmoke;
 }
 
-aside {
+/* aside {
   position: relative;
   padding: 8px 16px;
   margin: 0;
@@ -31,7 +31,23 @@ aside {
   dd {
     padding: 0 10px;
   }
-}
+} Seperated dt and dd from aside, which seems to be cause of the error*/
+ aside {
+  position: relative;
+  padding: 8px 16px;
+  margin: 0;
+  width: 20vw;
+  height: auto;
+  float: right;
+ }
+  dt {
+    font-weight: bold;
+  }
+
+  dd {
+    padding: 0 10px;
+  }
+
 
 footer {
   padding: 1vw;
